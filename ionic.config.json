@@ -1,0 +1,7 @@
+{
+  "name": "side-menu-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
